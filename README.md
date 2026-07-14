@@ -41,7 +41,7 @@ List any tutorials, assets, images, icons, fonts, tools, or outside resources us
 - Google
 - "https://i.pinimg.com/736x/3b/12/fb/3b12fb5a4d8745f2fdd1d6c864e38a3d.jpg" (background image)
 - "https://m.media-amazon.com/images/I/61UEwzrQ+pL._UXNaN_FMjpg_QL85_.jpg" (album cover) 
-
+- Trebuchet MS font was used
 ## Future Improvements
 What would you improve or add with more time?
 - Maybe just be better, I don't know. This class is my first time coding ever. I'm pretty ok with the results though.
